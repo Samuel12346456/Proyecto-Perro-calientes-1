@@ -1,0 +1,1187 @@
+{
+  "ingredientes": [
+    {
+      "id": "ing_pan_simple",
+      "nombre": "simple",
+      "categoria": "Pan",
+      "tipo": "blanco",
+      "costo": 0.8
+    },
+    {
+      "id": "ing_pan_integral",
+      "nombre": "integral",
+      "categoria": "Pan",
+      "tipo": "trigo entero",
+      "costo": 0.8
+    },
+    {
+      "id": "ing_pan_especial",
+      "nombre": "especial",
+      "categoria": "Pan",
+      "tipo": "queso",
+      "costo": 0.8
+    },
+    {
+      "id": "ing_pan_grande",
+      "nombre": "grande",
+      "categoria": "Pan",
+      "tipo": "blanco",
+      "costo": 0.8
+    },
+    {
+      "id": "ing_pan_italiano",
+      "nombre": "italiano",
+      "categoria": "Pan",
+      "tipo": "oregano",
+      "costo": 0.8
+    },
+    {
+      "id": "ing_pan_sin_gluten",
+      "nombre": "sin gluten",
+      "categoria": "Pan",
+      "tipo": "arroz",
+      "costo": 0.8
+    },
+    {
+      "id": "ing_pan_saludable",
+      "nombre": "saludable",
+      "categoria": "Pan",
+      "tipo": "avena",
+      "costo": 0.8
+    },
+    {
+      "id": "ing_pan_gigante",
+      "nombre": "gigante",
+      "categoria": "Pan",
+      "tipo": "ajonjolí",
+      "costo": 0.8
+    },
+    {
+      "id": "ing_pan_submarino",
+      "nombre": "submarino",
+      "categoria": "Pan",
+      "tipo": "blanco",
+      "costo": 0.8
+    },
+    {
+      "id": "ing_salchicha_weiner",
+      "nombre": "weiner",
+      "categoria": "Salchicha",
+      "tipo": "cerdo",
+      "costo": 1.5
+    },
+    {
+      "id": "ing_salchicha_breakfast",
+      "nombre": "breakfast",
+      "categoria": "Salchicha",
+      "tipo": "res",
+      "costo": 1.5
+    },
+    {
+      "id": "ing_salchicha_alemana",
+      "nombre": "alemana",
+      "categoria": "Salchicha",
+      "tipo": "cerdo",
+      "costo": 1.5
+    },
+    {
+      "id": "ing_salchicha_francesa",
+      "nombre": "francesa",
+      "categoria": "Salchicha",
+      "tipo": "res",
+      "costo": 1.5
+    },
+    {
+      "id": "ing_salchicha_polaca",
+      "nombre": "polaca",
+      "categoria": "Salchicha",
+      "tipo": "mezcla",
+      "costo": 1.5
+    },
+    {
+      "id": "ing_salchicha_light",
+      "nombre": "light",
+      "categoria": "Salchicha",
+      "tipo": "pollo",
+      "costo": 1.5
+    },
+    {
+      "id": "ing_salchicha_boudin",
+      "nombre": "boudin",
+      "categoria": "Salchicha",
+      "tipo": "pollo",
+      "costo": 1.5
+    },
+    {
+      "id": "ing_salchicha_vienna",
+      "nombre": "vienna",
+      "categoria": "Salchicha",
+      "tipo": "mezcla",
+      "costo": 1.5
+    },
+    {
+      "id": "ing_salchicha_salicce",
+      "nombre": "salicce",
+      "categoria": "Salchicha",
+      "tipo": "cerdo",
+      "costo": 1.5
+    },
+    {
+      "id": "ing_acompañante_saladas_pequeñas",
+      "nombre": "saladas pequeñas",
+      "categoria": "Acompañante",
+      "tipo": "Papas chip",
+      "costo": 2.0
+    },
+    {
+      "id": "ing_acompañante_saladas_medianas",
+      "nombre": "saladas medianas",
+      "categoria": "Acompañante",
+      "tipo": "Papas chip",
+      "costo": 2.0
+    },
+    {
+      "id": "ing_acompañante_saladas_grandes",
+      "nombre": "saladas grandes",
+      "categoria": "Acompañante",
+      "tipo": "Papas chip",
+      "costo": 2.0
+    },
+    {
+      "id": "ing_acompañante_doradas_con_queso_pequeñas",
+      "nombre": "doradas con queso pequeñas",
+      "categoria": "Acompañante",
+      "tipo": "Papas chip",
+      "costo": 2.0
+    },
+    {
+      "id": "ing_acompañante_doradas_con_queso_medianas",
+      "nombre": "doradas con queso medianas",
+      "categoria": "Acompañante",
+      "tipo": "Papas chip",
+      "costo": 2.0
+    },
+    {
+      "id": "ing_acompañante_doradas_con_queso_grandes",
+      "nombre": "doradas con queso grandes",
+      "categoria": "Acompañante",
+      "tipo": "Papas chip",
+      "costo": 2.0
+    },
+    {
+      "id": "ing_acompañante_super_papas",
+      "nombre": "Super papas",
+      "categoria": "Acompañante",
+      "tipo": "Papas fritas",
+      "costo": 2.0
+    },
+    {
+      "id": "ing_acompañante_papas",
+      "nombre": "Papas",
+      "categoria": "Acompañante",
+      "tipo": "Papas fritas",
+      "costo": 2.0
+    },
+    {
+      "id": "ing_acompañante_cola_negra",
+      "nombre": "Cola Negra",
+      "categoria": "Acompañante",
+      "tipo": "Refresco",
+      "costo": 2.0
+    },
+    {
+      "id": "ing_acompañante_kolita",
+      "nombre": "Kolita",
+      "categoria": "Acompañante",
+      "tipo": "Refresco",
+      "costo": 2.0
+    },
+    {
+      "id": "ing_acompañante_té_helado",
+      "nombre": "Té helado",
+      "categoria": "Acompañante",
+      "tipo": "Refesco",
+      "costo": 2.0
+    },
+    {
+      "id": "ing_acompañante_naranjada",
+      "nombre": "Naranjada",
+      "categoria": "Acompañante",
+      "tipo": "Refresco",
+      "costo": 2.0
+    },
+    {
+      "id": "ing_acompañante_limonada",
+      "nombre": "Limonada",
+      "categoria": "Acompañante",
+      "tipo": "Jugo",
+      "costo": 2.0
+    },
+    {
+      "id": "ing_acompañante_manzana",
+      "nombre": "Manzana",
+      "categoria": "Acompañante",
+      "tipo": "Jugo",
+      "costo": 2.0
+    },
+    {
+      "id": "ing_acompañante_naranja",
+      "nombre": "Naranja",
+      "categoria": "Acompañante",
+      "tipo": "Jugo",
+      "costo": 2.0
+    },
+    {
+      "id": "ing_acompañante_pera",
+      "nombre": "Pera",
+      "categoria": "Acompañante",
+      "tipo": "Jugo",
+      "costo": 2.0
+    },
+    {
+      "id": "ing_acompañante_no_vendemos_alcohol",
+      "nombre": "No vendemos alcohol",
+      "categoria": "Acompañante",
+      "tipo": "Alcohol",
+      "costo": 2.0
+    },
+    {
+      "id": "ing_salsa_ketchup",
+      "nombre": "ketchup",
+      "categoria": "Salsa",
+      "tipo": "tomate",
+      "costo": 0.3
+    },
+    {
+      "id": "ing_salsa_mayonesa",
+      "nombre": "mayonesa",
+      "categoria": "Salsa",
+      "tipo": "aceite",
+      "costo": 0.3
+    },
+    {
+      "id": "ing_salsa_bbq",
+      "nombre": "BBQ",
+      "categoria": "Salsa",
+      "tipo": "azucar morena",
+      "costo": 0.3
+    },
+    {
+      "id": "ing_salsa_mostaza",
+      "nombre": "mostaza",
+      "categoria": "Salsa",
+      "tipo": "mostaza",
+      "costo": 0.3
+    },
+    {
+      "id": "ing_salsa_relish",
+      "nombre": "relish",
+      "categoria": "Salsa",
+      "tipo": "pepino",
+      "costo": 0.3
+    },
+    {
+      "id": "ing_topping_tomate",
+      "nombre": "tomate",
+      "categoria": "Topping",
+      "tipo": "vegetal",
+      "costo": 0.4
+    },
+    {
+      "id": "ing_topping_cebolla",
+      "nombre": "cebolla",
+      "categoria": "Topping",
+      "tipo": "vegetal",
+      "costo": 0.4
+    },
+    {
+      "id": "ing_topping_repollo",
+      "nombre": "repollo",
+      "categoria": "Topping",
+      "tipo": "vegetal",
+      "costo": 0.4
+    },
+    {
+      "id": "ing_topping_cilantro",
+      "nombre": "cilantro",
+      "categoria": "Topping",
+      "tipo": "vegetal",
+      "costo": 0.4
+    },
+    {
+      "id": "ing_topping_papitas",
+      "nombre": "papitas",
+      "categoria": "Topping",
+      "tipo": "fritura",
+      "costo": 0.4
+    },
+    {
+      "id": "ing_topping_nuez_moscada",
+      "nombre": "nuez moscada",
+      "categoria": "Topping",
+      "tipo": "nuez",
+      "costo": 0.4
+    },
+    {
+      "id": "ing_001",
+      "nombre": "Pan Arane",
+      "categoria": "Pan",
+      "tipo": "Arabe",
+      "costo": 0.5
+    },
+    {
+      "id": "ing_002",
+      "nombre": "Salchicha Polaca",
+      "categoria": "Salchicha",
+      "tipo": "Polaca",
+      "costo": 0.5
+    },
+    {
+      "id": "ing_003",
+      "nombre": "Barbecue",
+      "categoria": "Salsa",
+      "tipo": "Salsa",
+      "costo": 0.5
+    },
+    {
+      "id": "ing_004",
+      "nombre": "Papas ralladas",
+      "categoria": "Topping",
+      "tipo": "ralladas",
+      "costo": 0.5
+    },
+    {
+      "id": "ing_005",
+      "nombre": "papas fritas",
+      "categoria": "Acompañante",
+      "tipo": "papas",
+      "costo": 0.5
+    },
+    {
+      "id": "ing_052",
+      "nombre": "Salchicha Alemana",
+      "categoria": "Salchicha",
+      "tipo": "Polaca",
+      "costo": 0.3
+    }
+  ],
+  "inventario": [
+    {
+      "ingrediente_id": "ing_pan_simple",
+      "cantidad": 5
+    },
+    {
+      "ingrediente_id": "ing_pan_integral",
+      "cantidad": 19
+    },
+    {
+      "ingrediente_id": "ing_pan_especial",
+      "cantidad": 12
+    },
+    {
+      "ingrediente_id": "ing_pan_grande",
+      "cantidad": 22
+    },
+    {
+      "ingrediente_id": "ing_pan_italiano",
+      "cantidad": 21
+    },
+    {
+      "ingrediente_id": "ing_pan_sin_gluten",
+      "cantidad": 25
+    },
+    {
+      "ingrediente_id": "ing_pan_saludable",
+      "cantidad": 24
+    },
+    {
+      "ingrediente_id": "ing_pan_gigante",
+      "cantidad": 20
+    },
+    {
+      "ingrediente_id": "ing_pan_submarino",
+      "cantidad": 18
+    },
+    {
+      "ingrediente_id": "ing_salchicha_weiner",
+      "cantidad": 0
+    },
+    {
+      "ingrediente_id": "ing_salchicha_breakfast",
+      "cantidad": 14
+    },
+    {
+      "ingrediente_id": "ing_salchicha_alemana",
+      "cantidad": 17
+    },
+    {
+      "ingrediente_id": "ing_salchicha_francesa",
+      "cantidad": 4
+    },
+    {
+      "ingrediente_id": "ing_salchicha_polaca",
+      "cantidad": 19
+    },
+    {
+      "ingrediente_id": "ing_salchicha_light",
+      "cantidad": 20
+    },
+    {
+      "ingrediente_id": "ing_salchicha_boudin",
+      "cantidad": 19
+    },
+    {
+      "ingrediente_id": "ing_salchicha_vienna",
+      "cantidad": 15
+    },
+    {
+      "ingrediente_id": "ing_salchicha_salicce",
+      "cantidad": 13
+    },
+    {
+      "ingrediente_id": "ing_acompañante_saladas_pequeñas",
+      "cantidad": 11
+    },
+    {
+      "ingrediente_id": "ing_acompañante_saladas_medianas",
+      "cantidad": 20
+    },
+    {
+      "ingrediente_id": "ing_acompañante_saladas_grandes",
+      "cantidad": 20
+    },
+    {
+      "ingrediente_id": "ing_acompañante_doradas_con_queso_pequeñas",
+      "cantidad": 20
+    },
+    {
+      "ingrediente_id": "ing_acompañante_doradas_con_queso_medianas",
+      "cantidad": 20
+    },
+    {
+      "ingrediente_id": "ing_acompañante_doradas_con_queso_grandes",
+      "cantidad": 20
+    },
+    {
+      "ingrediente_id": "ing_acompañante_super_papas",
+      "cantidad": 20
+    },
+    {
+      "ingrediente_id": "ing_acompañante_papas",
+      "cantidad": 9
+    },
+    {
+      "ingrediente_id": "ing_acompañante_cola_negra",
+      "cantidad": 20
+    },
+    {
+      "ingrediente_id": "ing_acompañante_kolita",
+      "cantidad": 8
+    },
+    {
+      "ingrediente_id": "ing_acompañante_té_helado",
+      "cantidad": 20
+    },
+    {
+      "ingrediente_id": "ing_acompañante_naranjada",
+      "cantidad": 8
+    },
+    {
+      "ingrediente_id": "ing_acompañante_limonada",
+      "cantidad": 15
+    },
+    {
+      "ingrediente_id": "ing_acompañante_manzana",
+      "cantidad": 20
+    },
+    {
+      "ingrediente_id": "ing_acompañante_naranja",
+      "cantidad": 20
+    },
+    {
+      "ingrediente_id": "ing_acompañante_pera",
+      "cantidad": 20
+    },
+    {
+      "ingrediente_id": "ing_acompañante_no_vendemos_alcohol",
+      "cantidad": 0
+    },
+    {
+      "ingrediente_id": "ing_salsa_ketchup",
+      "cantidad": 61
+    },
+    {
+      "ingrediente_id": "ing_salsa_mayonesa",
+      "cantidad": 76
+    },
+    {
+      "ingrediente_id": "ing_salsa_bbq",
+      "cantidad": 68
+    },
+    {
+      "ingrediente_id": "ing_salsa_mostaza",
+      "cantidad": 64
+    },
+    {
+      "ingrediente_id": "ing_salsa_relish",
+      "cantidad": 65
+    },
+    {
+      "ingrediente_id": "ing_topping_tomate",
+      "cantidad": 0
+    },
+    {
+      "ingrediente_id": "ing_topping_cebolla",
+      "cantidad": 0
+    },
+    {
+      "ingrediente_id": "ing_topping_repollo",
+      "cantidad": 0
+    },
+    {
+      "ingrediente_id": "ing_topping_cilantro",
+      "cantidad": 1
+    },
+    {
+      "ingrediente_id": "ing_topping_papitas",
+      "cantidad": 24
+    },
+    {
+      "ingrediente_id": "ing_topping_nuez_moscada",
+      "cantidad": 38
+    },
+    {
+      "ingrediente_id": "ing_001",
+      "cantidad": 5
+    },
+    {
+      "ingrediente_id": "ing_002",
+      "cantidad": 5
+    },
+    {
+      "ingrediente_id": "ing_003",
+      "cantidad": 0
+    },
+    {
+      "ingrediente_id": "ing_004",
+      "cantidad": 5
+    },
+    {
+      "ingrediente_id": "ing_005",
+      "cantidad": 15
+    },
+    {
+      "ingrediente_id": "ing_052",
+      "cantidad": 50
+    }
+  ],
+  "menu": [
+    {
+      "id": "hd_simple",
+      "nombre": "simple",
+      "pan": {
+        "id": "ing_pan_simple",
+        "nombre": "simple",
+        "categoria": "Pan",
+        "tipo": "blanco",
+        "costo": 0.8
+      },
+      "salchicha": {
+        "id": "ing_salchicha_weiner",
+        "nombre": "weiner",
+        "categoria": "Salchicha",
+        "tipo": "cerdo",
+        "costo": 1.5
+      },
+      "toppings": [],
+      "salsas": [],
+      "acompanante": null,
+      "precio_venta": 5.0
+    },
+    {
+      "id": "hd_inglés",
+      "nombre": "inglés",
+      "pan": {
+        "id": "ing_pan_integral",
+        "nombre": "integral",
+        "categoria": "Pan",
+        "tipo": "trigo entero",
+        "costo": 0.8
+      },
+      "salchicha": {
+        "id": "ing_salchicha_breakfast",
+        "nombre": "breakfast",
+        "categoria": "Salchicha",
+        "tipo": "res",
+        "costo": 1.5
+      },
+      "toppings": [
+        {
+          "id": "ing_topping_cebolla",
+          "nombre": "cebolla",
+          "categoria": "Topping",
+          "tipo": "vegetal",
+          "costo": 0.4
+        }
+      ],
+      "salsas": [
+        {
+          "id": "ing_salsa_relish",
+          "nombre": "relish",
+          "categoria": "Salsa",
+          "tipo": "pepino",
+          "costo": 0.3
+        }
+      ],
+      "acompanante": {
+        "id": "ing_acompañante_papas",
+        "nombre": "Papas",
+        "categoria": "Acompañante",
+        "tipo": "Papas fritas",
+        "costo": 2.0
+      },
+      "precio_venta": 5.5
+    },
+    {
+      "id": "hd_lederhosen",
+      "nombre": "lederhosen",
+      "pan": {
+        "id": "ing_pan_grande",
+        "nombre": "grande",
+        "categoria": "Pan",
+        "tipo": "blanco",
+        "costo": 0.8
+      },
+      "salchicha": {
+        "id": "ing_salchicha_alemana",
+        "nombre": "alemana",
+        "categoria": "Salchicha",
+        "tipo": "cerdo",
+        "costo": 1.5
+      },
+      "toppings": [
+        {
+          "id": "ing_topping_cebolla",
+          "nombre": "cebolla",
+          "categoria": "Topping",
+          "tipo": "vegetal",
+          "costo": 0.4
+        },
+        {
+          "id": "ing_topping_repollo",
+          "nombre": "repollo",
+          "categoria": "Topping",
+          "tipo": "vegetal",
+          "costo": 0.4
+        },
+        {
+          "id": "ing_topping_cilantro",
+          "nombre": "cilantro",
+          "categoria": "Topping",
+          "tipo": "vegetal",
+          "costo": 0.4
+        },
+        {
+          "id": "ing_topping_papitas",
+          "nombre": "papitas",
+          "categoria": "Topping",
+          "tipo": "fritura",
+          "costo": 0.4
+        }
+      ],
+      "salsas": [
+        {
+          "id": "ing_salsa_ketchup",
+          "nombre": "ketchup",
+          "categoria": "Salsa",
+          "tipo": "tomate",
+          "costo": 0.3
+        },
+        {
+          "id": "ing_salsa_bbq",
+          "nombre": "BBQ",
+          "categoria": "Salsa",
+          "tipo": "azucar morena",
+          "costo": 0.3
+        },
+        {
+          "id": "ing_salsa_mostaza",
+          "nombre": "mostaza",
+          "categoria": "Salsa",
+          "tipo": "mostaza",
+          "costo": 0.3
+        },
+        {
+          "id": "ing_salsa_relish",
+          "nombre": "relish",
+          "categoria": "Salsa",
+          "tipo": "pepino",
+          "costo": 0.3
+        }
+      ],
+      "acompanante": {
+        "id": "ing_acompañante_no_vendemos_alcohol",
+        "nombre": "No vendemos alcohol",
+        "categoria": "Acompañante",
+        "tipo": "Alcohol",
+        "costo": 2.0
+      },
+      "precio_venta": 7.0
+    },
+    {
+      "id": "hd_bonjour",
+      "nombre": "bonjour",
+      "pan": {
+        "id": "ing_pan_especial",
+        "nombre": "especial",
+        "categoria": "Pan",
+        "tipo": "queso",
+        "costo": 0.8
+      },
+      "salchicha": {
+        "id": "ing_salchicha_francesa",
+        "nombre": "francesa",
+        "categoria": "Salchicha",
+        "tipo": "res",
+        "costo": 1.5
+      },
+      "toppings": [
+        {
+          "id": "ing_topping_tomate",
+          "nombre": "tomate",
+          "categoria": "Topping",
+          "tipo": "vegetal",
+          "costo": 0.4
+        },
+        {
+          "id": "ing_topping_cilantro",
+          "nombre": "cilantro",
+          "categoria": "Topping",
+          "tipo": "vegetal",
+          "costo": 0.4
+        },
+        {
+          "id": "ing_topping_nuez_moscada",
+          "nombre": "nuez moscada",
+          "categoria": "Topping",
+          "tipo": "nuez",
+          "costo": 0.4
+        }
+      ],
+      "salsas": [
+        {
+          "id": "ing_salsa_mayonesa",
+          "nombre": "mayonesa",
+          "categoria": "Salsa",
+          "tipo": "aceite",
+          "costo": 0.3
+        },
+        {
+          "id": "ing_salsa_bbq",
+          "nombre": "BBQ",
+          "categoria": "Salsa",
+          "tipo": "azucar morena",
+          "costo": 0.3
+        },
+        {
+          "id": "ing_salsa_mostaza",
+          "nombre": "mostaza",
+          "categoria": "Salsa",
+          "tipo": "mostaza",
+          "costo": 0.3
+        }
+      ],
+      "acompanante": {
+        "id": "ing_acompañante_naranjada",
+        "nombre": "Naranjada",
+        "categoria": "Acompañante",
+        "tipo": "Refresco",
+        "costo": 2.0
+      },
+      "precio_venta": 6.5
+    },
+    {
+      "id": "hd_varsovia",
+      "nombre": "varsovia",
+      "pan": {
+        "id": "ing_pan_especial",
+        "nombre": "especial",
+        "categoria": "Pan",
+        "tipo": "queso",
+        "costo": 0.8
+      },
+      "salchicha": {
+        "id": "ing_salchicha_polaca",
+        "nombre": "polaca",
+        "categoria": "Salchicha",
+        "tipo": "mezcla",
+        "costo": 1.5
+      },
+      "toppings": [
+        {
+          "id": "ing_topping_tomate",
+          "nombre": "tomate",
+          "categoria": "Topping",
+          "tipo": "vegetal",
+          "costo": 0.4
+        },
+        {
+          "id": "ing_topping_cilantro",
+          "nombre": "cilantro",
+          "categoria": "Topping",
+          "tipo": "vegetal",
+          "costo": 0.4
+        },
+        {
+          "id": "ing_topping_repollo",
+          "nombre": "repollo",
+          "categoria": "Topping",
+          "tipo": "vegetal",
+          "costo": 0.4
+        }
+      ],
+      "salsas": [
+        {
+          "id": "ing_salsa_mayonesa",
+          "nombre": "mayonesa",
+          "categoria": "Salsa",
+          "tipo": "aceite",
+          "costo": 0.3
+        },
+        {
+          "id": "ing_salsa_bbq",
+          "nombre": "BBQ",
+          "categoria": "Salsa",
+          "tipo": "azucar morena",
+          "costo": 0.3
+        },
+        {
+          "id": "ing_salsa_relish",
+          "nombre": "relish",
+          "categoria": "Salsa",
+          "tipo": "pepino",
+          "costo": 0.3
+        }
+      ],
+      "acompanante": {
+        "id": "ing_acompañante_no_vendemos_alcohol",
+        "nombre": "No vendemos alcohol",
+        "categoria": "Acompañante",
+        "tipo": "Alcohol",
+        "costo": 2.0
+      },
+      "precio_venta": 6.5
+    },
+    {
+      "id": "hd_fitness",
+      "nombre": "fitness",
+      "pan": {
+        "id": "ing_pan_sin_gluten",
+        "nombre": "sin gluten",
+        "categoria": "Pan",
+        "tipo": "arroz",
+        "costo": 0.8
+      },
+      "salchicha": {
+        "id": "ing_salchicha_light",
+        "nombre": "light",
+        "categoria": "Salchicha",
+        "tipo": "pollo",
+        "costo": 1.5
+      },
+      "toppings": [
+        {
+          "id": "ing_topping_tomate",
+          "nombre": "tomate",
+          "categoria": "Topping",
+          "tipo": "vegetal",
+          "costo": 0.4
+        },
+        {
+          "id": "ing_topping_cilantro",
+          "nombre": "cilantro",
+          "categoria": "Topping",
+          "tipo": "vegetal",
+          "costo": 0.4
+        },
+        {
+          "id": "ing_topping_repollo",
+          "nombre": "repollo",
+          "categoria": "Topping",
+          "tipo": "vegetal",
+          "costo": 0.4
+        }
+      ],
+      "salsas": [],
+      "acompanante": {
+        "id": "ing_acompañante_limonada",
+        "nombre": "Limonada",
+        "categoria": "Acompañante",
+        "tipo": "Jugo",
+        "costo": 2.0
+      },
+      "precio_venta": 6.5
+    },
+    {
+      "id": "hd_soirée",
+      "nombre": "soirée",
+      "pan": {
+        "id": "ing_pan_saludable",
+        "nombre": "saludable",
+        "categoria": "Pan",
+        "tipo": "avena",
+        "costo": 0.8
+      },
+      "salchicha": {
+        "id": "ing_salchicha_boudin",
+        "nombre": "boudin",
+        "categoria": "Salchicha",
+        "tipo": "pollo",
+        "costo": 1.5
+      },
+      "toppings": [
+        {
+          "id": "ing_topping_tomate",
+          "nombre": "tomate",
+          "categoria": "Topping",
+          "tipo": "vegetal",
+          "costo": 0.4
+        },
+        {
+          "id": "ing_topping_cilantro",
+          "nombre": "cilantro",
+          "categoria": "Topping",
+          "tipo": "vegetal",
+          "costo": 0.4
+        },
+        {
+          "id": "ing_topping_papitas",
+          "nombre": "papitas",
+          "categoria": "Topping",
+          "tipo": "fritura",
+          "costo": 0.4
+        }
+      ],
+      "salsas": [
+        {
+          "id": "ing_salsa_mayonesa",
+          "nombre": "mayonesa",
+          "categoria": "Salsa",
+          "tipo": "aceite",
+          "costo": 0.3
+        },
+        {
+          "id": "ing_salsa_bbq",
+          "nombre": "BBQ",
+          "categoria": "Salsa",
+          "tipo": "azucar morena",
+          "costo": 0.3
+        },
+        {
+          "id": "ing_salsa_mostaza",
+          "nombre": "mostaza",
+          "categoria": "Salsa",
+          "tipo": "mostaza",
+          "costo": 0.3
+        }
+      ],
+      "acompanante": {
+        "id": "ing_acompañante_no_vendemos_alcohol",
+        "nombre": "No vendemos alcohol",
+        "categoria": "Acompañante",
+        "tipo": "Alcohol",
+        "costo": 2.0
+      },
+      "precio_venta": 6.5
+    },
+    {
+      "id": "hd_coctel",
+      "nombre": "coctel",
+      "pan": {
+        "id": "ing_pan_gigante",
+        "nombre": "gigante",
+        "categoria": "Pan",
+        "tipo": "ajonjolí",
+        "costo": 0.8
+      },
+      "salchicha": {
+        "id": "ing_salchicha_vienna",
+        "nombre": "vienna",
+        "categoria": "Salchicha",
+        "tipo": "mezcla",
+        "costo": 1.5
+      },
+      "toppings": [
+        {
+          "id": "ing_topping_cebolla",
+          "nombre": "cebolla",
+          "categoria": "Topping",
+          "tipo": "vegetal",
+          "costo": 0.4
+        },
+        {
+          "id": "ing_topping_repollo",
+          "nombre": "repollo",
+          "categoria": "Topping",
+          "tipo": "vegetal",
+          "costo": 0.4
+        }
+      ],
+      "salsas": [
+        {
+          "id": "ing_salsa_ketchup",
+          "nombre": "ketchup",
+          "categoria": "Salsa",
+          "tipo": "tomate",
+          "costo": 0.3
+        },
+        {
+          "id": "ing_salsa_mostaza",
+          "nombre": "mostaza",
+          "categoria": "Salsa",
+          "tipo": "mostaza",
+          "costo": 0.3
+        },
+        {
+          "id": "ing_salsa_relish",
+          "nombre": "relish",
+          "categoria": "Salsa",
+          "tipo": "pepino",
+          "costo": 0.3
+        }
+      ],
+      "acompanante": null,
+      "precio_venta": 6.0
+    },
+    {
+      "id": "hd_coliseo",
+      "nombre": "coliseo",
+      "pan": {
+        "id": "ing_pan_submarino",
+        "nombre": "submarino",
+        "categoria": "Pan",
+        "tipo": "blanco",
+        "costo": 0.8
+      },
+      "salchicha": {
+        "id": "ing_salchicha_salicce",
+        "nombre": "salicce",
+        "categoria": "Salchicha",
+        "tipo": "cerdo",
+        "costo": 1.5
+      },
+      "toppings": [
+        {
+          "id": "ing_topping_tomate",
+          "nombre": "tomate",
+          "categoria": "Topping",
+          "tipo": "vegetal",
+          "costo": 0.4
+        },
+        {
+          "id": "ing_topping_cebolla",
+          "nombre": "cebolla",
+          "categoria": "Topping",
+          "tipo": "vegetal",
+          "costo": 0.4
+        },
+        {
+          "id": "ing_topping_repollo",
+          "nombre": "repollo",
+          "categoria": "Topping",
+          "tipo": "vegetal",
+          "costo": 0.4
+        },
+        {
+          "id": "ing_topping_cilantro",
+          "nombre": "cilantro",
+          "categoria": "Topping",
+          "tipo": "vegetal",
+          "costo": 0.4
+        },
+        {
+          "id": "ing_topping_papitas",
+          "nombre": "papitas",
+          "categoria": "Topping",
+          "tipo": "fritura",
+          "costo": 0.4
+        }
+      ],
+      "salsas": [
+        {
+          "id": "ing_salsa_ketchup",
+          "nombre": "ketchup",
+          "categoria": "Salsa",
+          "tipo": "tomate",
+          "costo": 0.3
+        }
+      ],
+      "acompanante": {
+        "id": "ing_acompañante_kolita",
+        "nombre": "Kolita",
+        "categoria": "Acompañante",
+        "tipo": "Refresco",
+        "costo": 2.0
+      },
+      "precio_venta": 7.5
+    },
+    {
+      "id": "hd_mama_mia",
+      "nombre": "mama mia",
+      "pan": {
+        "id": "ing_pan_italiano",
+        "nombre": "italiano",
+        "categoria": "Pan",
+        "tipo": "oregano",
+        "costo": 0.8
+      },
+      "salchicha": {
+        "id": "ing_salchicha_francesa",
+        "nombre": "francesa",
+        "categoria": "Salchicha",
+        "tipo": "res",
+        "costo": 1.5
+      },
+      "toppings": [
+        {
+          "id": "ing_topping_tomate",
+          "nombre": "tomate",
+          "categoria": "Topping",
+          "tipo": "vegetal",
+          "costo": 0.4
+        },
+        {
+          "id": "ing_topping_cebolla",
+          "nombre": "cebolla",
+          "categoria": "Topping",
+          "tipo": "vegetal",
+          "costo": 0.4
+        },
+        {
+          "id": "ing_topping_repollo",
+          "nombre": "repollo",
+          "categoria": "Topping",
+          "tipo": "vegetal",
+          "costo": 0.4
+        }
+      ],
+      "salsas": [
+        {
+          "id": "ing_salsa_ketchup",
+          "nombre": "ketchup",
+          "categoria": "Salsa",
+          "tipo": "tomate",
+          "costo": 0.3
+        }
+      ],
+      "acompanante": {
+        "id": "ing_acompañante_saladas_pequeñas",
+        "nombre": "saladas pequeñas",
+        "categoria": "Acompañante",
+        "tipo": "Papas chip",
+        "costo": 2.0
+      },
+      "precio_venta": 6.5
+    }
+  ]
+}
